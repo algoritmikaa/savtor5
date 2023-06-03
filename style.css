@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+footer {
+    background-color: yellow;
+    padding: 5px;
+}
+
+footer p {
+    background-color: white;
+}
+
+nav a{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: black;
+    color: white;
+}
+
+.algo {
+    background-color: rgb(109, 201, 18);
+
+}
+
+h2 {
+    color: green;
+}
+
+.ssilka {
+    border: 3px solid navy;
+    color: orange;
+    padding: 10px;
+    text-decoration: none;
+}
